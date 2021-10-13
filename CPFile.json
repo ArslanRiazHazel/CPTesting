@@ -1,6 +1,24 @@
+{
+    "IsEnabled": true,
 
-[
-  {
-    "Name":"Arslan"
-  }
-]
+    "FrameColor": "#0d8aff",
+    "NewTextColor": "#ffffff",
+
+    "PlayBtnColor": "#05becf",
+    "PlayBtnTextColor": "#ffffff",
+
+    "App-Android":  
+        {
+            "AppTitle": "Sabertooth Tiger Simulator",
+            "IconUrl": "http://www.splendidwallpaper.com/wp-content/uploads/golden_gate_bridge_wallpaper_hd-720x1280.jpg",
+            "Id": "com.area730.dinosimulator"
+        }
+    ,
+
+    "App-iOS": 
+        {
+            "AppTitle": "Sabertooth Tiger Simulator",
+            "IconUrl": "http://www.splendidwallpaper.com/wp-content/uploads/golden_gate_bridge_wallpaper_hd-720x1280.jpg",
+            "Id": "980976040"
+        }
+}
